@@ -33,3 +33,6 @@
 **git branch -d name_branch** - удалить ветку
 
 **git commit -a -m "message"** - сохранить и добавить коммит
+
+**git checkout -b name_branch** - создать и переключиться на ветку
+
