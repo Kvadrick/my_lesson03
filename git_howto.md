@@ -31,3 +31,5 @@
 **git checkout name_branch** - переход к другой ветке
 
 **git branch -d name_branch** - удалить ветку
+
+**git commit -a -m "message"** - сохранить и добавить коммит
